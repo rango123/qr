@@ -1,0 +1,4 @@
+qr
+==
+
+QR Helper. 
